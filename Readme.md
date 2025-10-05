@@ -226,4 +226,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**CausalFunnel assignment by Ritik Garg**
+**CausalFunnel assignment by Ritik Garg.**
