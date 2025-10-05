@@ -29,7 +29,7 @@ A full-stack quiz platform built with React (frontend) and Node.js/Express (back
 
 - **GitHub Repository:** [https://github.com/ritikgarg2468/CausalFunnel_Quiz_App.git](https://github.com/ritikgarg2468/CausalFunnel_Quiz_App.git)
 - **Frontend Live Demo:** [https://causal-funnel-quiz-app.vercel.app/](https://causal-funnel-quiz-app.vercel.app/)
-- **Backend API:** [https://causalfunnel-quiz-app.onrender.com/api](https://causalfunnel-quiz-app.onrender.com/api)
+- **Backend API:** [https://causal-funnel-quiz-app-6ocd.vercel.app/api](https://causal-funnel-quiz-app-6ocd.vercel.app/api)
 
 ---
 
